@@ -1,3 +1,5 @@
+
+//an example of whta not to do, judt renders html, no react
 function FixedEntry(): JSX.Element {
   return (
     <section>
